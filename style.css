@@ -1,0 +1,14 @@
+#harmonicsListWrapper{
+	border: 1px solid black;
+	max-height: 600px;
+	overflow: auto;
+}
+
+#plot{
+	width: 800px;
+	height: 600px;
+}
+
+p{
+	padding: 0 15px;
+}
